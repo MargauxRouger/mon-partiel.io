@@ -1,0 +1,19 @@
+h1{
+  text-align:center;
+}
+
+.icon ul{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-around;
+  list-style:none;
+  align-items:center;
+}
+
+.icon ul li a{ 
+color:grey;
+}
+
+.icon ul li a:hover{ 
+  color:pink;
+}
